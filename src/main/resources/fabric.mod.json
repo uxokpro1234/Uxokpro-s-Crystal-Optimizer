@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "crystaloptimizer",
+  "version": "${version}",
+
+  "name": "Crystal Optimizer",
+  "description": "Allows you to place (and destroy) crystals much faster",
+  "authors": [
+    "uxokpro1234"
+  ],
+  "contact": {
+    "homepage": "https://github.com/uxusnoob"
+  },
+
+  "license": "MIT",
+  "icon": " resurses/assets/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "uxokpro1234.optimizer.CrystalOptimizer"
+    ]
+  },
+
+  "mixins": [
+    "crystaloptimizer.mixins.json"
+  ],
+
+  "depends": {
+    "midnightlib": "*"
+  }
+}

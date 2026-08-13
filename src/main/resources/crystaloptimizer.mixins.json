@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "uxokpro1234.optimizer.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "EndCrystalItemMixin",
+    "ItemStackMixin",
+    "MixinEnderCrystalEntity"
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
