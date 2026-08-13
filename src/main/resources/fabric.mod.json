@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "crystaloptimizer",
-  "version": "${version}",
+  "version": "1.0",
 
   "name": "Crystal Optimizer",
   "description": "Allows you to place (and destroy) crystals much faster",
@@ -9,7 +9,7 @@
     "uxokpro1234"
   ],
   "contact": {
-    "homepage": "https://github.com/uxusnoob"
+    "homepage": "https://github.com/uxokpro1234"
   },
 
   "license": "MIT",
